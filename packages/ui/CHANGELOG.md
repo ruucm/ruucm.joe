@@ -1,5 +1,18 @@
 # @ruucm.joe/ui
 
+## 0.2.6
+
+### Patch Changes
+
+- 23
+- 24
+
+## 0.2.5
+
+### Patch Changes
+
+- 9ae235b: 2
+
 ## 0.2.4
 
 ### Patch Changes
