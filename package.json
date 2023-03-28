@@ -6,8 +6,7 @@
     "lint": "turbo run lint",
     "clean": "turbo run clean",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "changeset": "changeset --empty",
-    "version-packages": "changeset version",
+    "version-packages": "changeset add && changeset version && changeset tag",
     "release": "turbo run build --filter=docs^... && changeset publish && git push --follow-tags && git push -u origin HEAD"
   },
   "devDependencies": {
