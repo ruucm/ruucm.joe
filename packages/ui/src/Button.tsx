@@ -1,3 +1,3 @@
 export const Button = () => {
-  return <div style={{ background: "beige" }}>hello @ruucm.joe/ui</div>;
+  return <div style={{ background: "beige", color: 'white' }}>hello @ruucm.joe/ui</div>;
 };
