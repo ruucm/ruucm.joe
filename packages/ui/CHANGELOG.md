@@ -1,5 +1,11 @@
 # @ruucm.joe/ui
 
+## 0.2.7
+
+### Patch Changes
+
+- 4f94a2f: color white
+
 ## 0.2.6
 
 ### Patch Changes
